@@ -27,3 +27,7 @@ npx degit heksagonnet/product-sorter-vue3 my-product-sorter-vue3
 cd my-product-sorter-vue3
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 ```
+
+### Download the repo
+
+[Download](//github.com/heksagonnet/product-sorter-vue3/archive/main.zip) and run pnpm i inside the downloaded folder.
