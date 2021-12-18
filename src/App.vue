@@ -39,18 +39,23 @@ html {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
-  max-width: 1000px;
   margin: 60px auto;
 }
 .orders {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
-  max-width: 70%;
+  max-width: 90%;
   margin: 0 auto;
 }
+@media (min-width: 600px) {
+  .orders {
+    max-width: 600px;
+  }
+}
 .orders button {
-  margin: 10px;
-  padding: 10px;
+  margin: 2px;
+  padding: 20px;
   cursor: pointer;
   font-weight: bold;
   border-radius: 10px;
