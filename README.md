@@ -30,4 +30,4 @@ pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 
 ### Download the repo
 
-[Download](//github.com/heksagonnet/product-sorter-vue3/archive/main.zip) and run pnpm i inside the downloaded folder.
+[Download](//github.com/heksagonnet/product-sorter-vue3/archive/main.zip) and run `pnpm i` inside the downloaded folder.
